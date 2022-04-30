@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42bdcb75-6677-48d1-96b5-a31978d89f28": {
+      "ProjectGuid": "42bdcb75-6677-48d1-96b5-a31978d89f28",
+      "DisplayName": "TGCbot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
